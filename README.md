@@ -10,7 +10,7 @@ For all API calls, this script uses the Azure CLI and the az rest command. The j
 - [ ] Streamline JSON body and conversion returned by the various api calls.
 - [ ] Figure out a better way to exlude unnecessary users\roles from returned api calls. 
 
-**References:**
+# **References:**
 
 https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
 
