@@ -7,7 +7,8 @@ This script makes the following assumptions
 
 To-do
 1) Format the JSON body in a better method
-2) Streamline JSON body and conversion returned by the various api calls. 
+2) Streamline JSON body and conversion returned by the various api calls.
+3) Figure out a better way to exlude unnecessary users\roles from returned api calls. 
 
 References:
 https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
