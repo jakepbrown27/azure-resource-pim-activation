@@ -20,6 +20,4 @@ https://learn.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-lates
 
 https://learn.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest#az-rest
 
-Please note that unless the documentation has been updated in the reference below, the API call references roleAssignmentScheduleRequests which is incrrect and should instead be RoleAssignmentScheduleRequests. MSFT knows this and has comitted to updating the documentation at some point.
-
 https://learn.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles#activate-a-role-with-arm-api
